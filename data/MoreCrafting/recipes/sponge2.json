@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"yyy",
+		"yxy",
+		"yyy"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:water_bucket"
+		},
+		"x": {
+			"item": "minecraft:sponge"
+		}
+	},
+	"result": {
+		"item": "minecraft:wet_sponge",
+		"count": 4
+	}
+}
