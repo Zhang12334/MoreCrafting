@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ccc",
+		"cyc",
+		"ccc"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:diamond_chestplate"
+		},
+		"c": {
+			"item": "coal_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond",
+		"count": 8
+	}
+}

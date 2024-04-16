@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ABA",
+		"KLJ",
+		"ATA"				
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:flint"
+		},
+		"B": {
+			"item": "minecraft:sandstone"
+		},
+		"J": {
+			"item": "minecraft:sand"
+		},
+		"L": {
+			"item": "minecraft:magma_block"
+		},
+		"K": {
+			"item": "minecraft:white_wool"
+		},
+		"T": {
+			"item": "minecraft:prismarine"
+		}										
+	},
+	"result": {
+		"item": "minecraft:sponge",
+		"count": 1
+	}
+}
