@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"xax",
+		"yzy",
+		"xax"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:diamond"
+		},
+		"x": {
+			"item": "minecraft:phantom_membrane"
+		},
+		"a": {
+			"item": "minecraft:popped_chorus_fruit"
+		},
+		"z": {
+			"item": "dragon_breath"
+		}
+	},
+	"result": {
+		"item": "minecraft:elytra",
+		"count": 1
+	}
+}

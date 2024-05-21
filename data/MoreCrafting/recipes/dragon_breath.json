@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"xzx",
+		"zaz",
+		"xzx"
+	],
+	"key": {
+		"x": {
+			"item": "minecraft:end_crystal"
+		},
+		"a": {
+			"item": "minecraft:dragon_egg"
+		},
+		"z": {
+			"item": "minecraft:crying_obsidian"
+		}
+	},
+	"result": {
+		"item": "minecraft:dragon_breath",
+		"count": 1
+	}
+}
