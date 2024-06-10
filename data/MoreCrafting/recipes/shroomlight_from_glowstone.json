@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"yxy",
+		"xzx",
+		"yxy"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:crimson_roots"
+		},
+		"x": {
+			"item": "minecraft:glowstone"
+		},
+		"z": {
+			"item": "minecraft:netherrack"
+		}
+	},
+	"result": {
+		"item": "minecraft:shroomlight",
+		"count": 4
+	}
+}
