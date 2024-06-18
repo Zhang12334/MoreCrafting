@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"yx"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:blackstone"
+		},
+		"x": {
+			"item": "minecraft:stone"
+		}
+	},
+	"result": {
+		"item": "minecraft:cobbled_deepslate",
+		"count": 2
+	}
+}
