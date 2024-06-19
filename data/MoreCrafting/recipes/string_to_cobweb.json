@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"y y",
+		" y ",
+		"y y"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:string"
+		}
+	},
+	"result": {
+		"item": "minecraft:cobweb",
+		"count": 1
+	}
+}
